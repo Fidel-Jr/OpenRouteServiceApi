@@ -77,7 +77,7 @@ Update appsettings.json:
 
 ```
 
-### 2️⃣ Frontend Setup
+### 3️⃣ Frontend Setup
 ```bash
 
 cd client
